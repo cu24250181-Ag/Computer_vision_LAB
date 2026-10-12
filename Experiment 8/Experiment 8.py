@@ -4,11 +4,11 @@
 # USING DECISION TREE CLASSIFICATION
 # ================================================================
 
-# Name       : Dev Sharma
-# UID        : CU24250269
+# Name       : Arpit Giri
+# UID        : CU24250181
 # Course     : B.Tech CSE
-# Section    : CSE "A"
-# Roll No.   : 17
+# Section    : CSE "B"
+# Roll No.   : 11
 
 # ================================================================
 # AIM
