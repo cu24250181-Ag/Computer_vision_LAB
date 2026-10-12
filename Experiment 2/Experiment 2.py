@@ -1,7 +1,7 @@
-# Name :- Dev Sharma
-# CU24250269
-# BTech CSE 3rd Year SECTION - "A"
-# Roll No. :- 17
+# Name :- Arpit Giri
+# CU24250181
+# BTech CSE 3rd Year SECTION - "B"
+# Roll No. :- 11
 
 # ============================================================
 # Experiment No. 2
